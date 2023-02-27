@@ -1,2 +1,2 @@
-# tico-capital-management
+# investment data visualization and analysis
  
